@@ -7,14 +7,14 @@
  * Time:    3:36 PM
  **/
 
-namespace NcJoes\PopplerPhp;
+namespace Knox\PopplerPhp;
 
-use NcJoes\PopplerPhp\Constants as C;
-use NcJoes\PopplerPhp\Exceptions\PopplerPhpException;
+use Knox\PopplerPhp\Constants as C;
+use Knox\PopplerPhp\Exceptions\PopplerPhpException;
 
 /**
  * Class PdfUnite
- * @package NcJoes\PopplerPhp
+ * @package Knox\PopplerPhp
  */
 class PdfUnite extends PopplerUtil
 {

@@ -7,17 +7,17 @@
  * Time:    2:17 AM
  **/
 
-namespace NcJoes\PopplerPhp;
+namespace Knox\PopplerPhp;
 
-use NcJoes\PopplerPhp\Constants as C;
-use NcJoes\PopplerPhp\PopplerOptions\CairoOptions;
-use NcJoes\PopplerPhp\PopplerOptions\HelpFlags;
-use NcJoes\PopplerPhp\PopplerOptions\PageRangeOptions;
+use Knox\PopplerPhp\Constants as C;
+use Knox\PopplerPhp\PopplerOptions\CairoOptions;
+use Knox\PopplerPhp\PopplerOptions\HelpFlags;
+use Knox\PopplerPhp\PopplerOptions\PageRangeOptions;
 
 /**
  * Class PdfToCairo
  *
- * @package NcJoes\PopplerPhp
+ * @package Knox\PopplerPhp
  */
 class PdfToCairo extends PopplerUtil
 {

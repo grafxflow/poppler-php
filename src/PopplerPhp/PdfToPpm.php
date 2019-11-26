@@ -7,7 +7,7 @@
  * Time:    3:35 PM
  **/
 
-namespace NcJoes\PopplerPhp;
+namespace Knox\PopplerPhp;
 
 class PdfToPpm extends PopplerUtil
 {

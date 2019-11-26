@@ -7,9 +7,9 @@
  * Time:    3:34 PM
  **/
 
-namespace NcJoes\PopplerPhp;
+namespace Knox\PopplerPhp;
 
-use NcJoes\PopplerPhp\Constants as C;
+use Knox\PopplerPhp\Constants as C;
 
 class PdfSeparate extends PopplerUtil
 {
